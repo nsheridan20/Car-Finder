@@ -1,4 +1,4 @@
-```javascript
+javascript
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import CarFinderApp from './App.jsx'
@@ -9,4 +9,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <CarFinderApp />
   </React.StrictMode>,
 )
-```
